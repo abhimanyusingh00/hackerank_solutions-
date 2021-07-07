@@ -1,0 +1,6 @@
+ = int(input("Enter the value of a :"))
+b = int(input("Enter the value of b :"))
+division=int(a//b)
+print(division)
+division2= float(a/b)
+print(division2)
