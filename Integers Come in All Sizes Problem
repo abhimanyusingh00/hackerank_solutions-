@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+function=(a**b) + (c**d)
+print(function)
